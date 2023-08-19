@@ -1,0 +1,2 @@
+-- how to make joins in sql
+-- extensive lessons on how to complete the following
